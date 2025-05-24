@@ -1,0 +1,34 @@
+2025-05-24 01:28:21,568 - 22776-MainThread - D:\GithubWorkspace\dianping_spider\utils\spider_config.py[line:88] - WARNING: 开启了评论详情模式，会降低速度并增加反爬概率
+2025-05-24 01:28:21,699 - 22776-MainThread - D:\GithubWorkspace\dianping_spider\utils\saver\mongo_saver.py[line:37] - WARNING: 系统中可能没有安装或启动MongoDB数据库，请先根据系统环境安装或启动MongoDB，再运行程序
+2025-05-24 01:28:32,474 - 18300-MainThread - D:\GithubWorkspace\dianping_spider\utils\spider_config.py[line:88] - WARNING: 开启了评论详情模式，会降低速度并增加反爬概率
+2025-05-24 01:28:32,578 - 18300-MainThread - D:\GithubWorkspace\dianping_spider\utils\saver\mongo_saver.py[line:37] - WARNING: 系统中可能没有安装或启动MongoDB数据库，请先根据系统环境安装或启动MongoDB，再运行程序
+2025-05-24 01:29:06,284 - 23448-MainThread - D:\GithubWorkspace\dianping_spider\utils\spider_config.py[line:88] - WARNING: 开启了评论详情模式，会降低速度并增加反爬概率
+2025-05-24 01:29:06,391 - 23448-MainThread - D:\GithubWorkspace\dianping_spider\utils\saver\mongo_saver.py[line:37] - WARNING: 系统中可能没有安装或启动MongoDB数据库，请先根据系统环境安装或启动MongoDB，再运行程序
+2025-05-24 01:29:25,091 - 21948-MainThread - D:\GithubWorkspace\dianping_spider\utils\spider_config.py[line:88] - WARNING: 开启了评论详情模式，会降低速度并增加反爬概率
+2025-05-24 01:29:25,190 - 21948-MainThread - D:\GithubWorkspace\dianping_spider\utils\saver\mongo_saver.py[line:37] - WARNING: 系统中可能没有安装或启动MongoDB数据库，请先根据系统环境安装或启动MongoDB，再运行程序
+2025-05-24 01:30:55,677 - 18028-MainThread - D:\GithubWorkspace\dianping_spider\utils\spider_config.py[line:88] - WARNING: 开启了评论详情模式，会降低速度并增加反爬概率
+2025-05-24 01:30:55,941 - 18028-MainThread - D:\GithubWorkspace\dianping_spider\utils\saver\mongo_saver.py[line:37] - WARNING: 系统中可能没有安装或启动MongoDB数据库，请先根据系统环境安装或启动MongoDB，再运行程序
+2025-05-24 01:31:16,469 - 5144-MainThread - D:\GithubWorkspace\dianping_spider\utils\spider_config.py[line:88] - WARNING: 开启了评论详情模式，会降低速度并增加反爬概率
+2025-05-24 01:31:16,671 - 5144-MainThread - D:\GithubWorkspace\dianping_spider\utils\saver\mongo_saver.py[line:37] - WARNING: 系统中可能没有安装或启动MongoDB数据库，请先根据系统环境安装或启动MongoDB，再运行程序
+2025-05-24 01:33:41,738 - 17980-MainThread - D:\GithubWorkspace\dianping_spider\utils\spider_config.py[line:88] - WARNING: 开启了评论详情模式，会降低速度并增加反爬概率
+2025-05-24 01:33:41,952 - 17980-MainThread - D:\GithubWorkspace\dianping_spider\utils\saver\mongo_saver.py[line:38] - WARNING: 系统中可能没有安装或启动MongoDB数据库，请先根据系统环境安装或启动MongoDB，再运行程序
+2025-05-24 01:34:14,544 - 22996-MainThread - D:\GithubWorkspace\dianping_spider\utils\spider_config.py[line:88] - WARNING: 开启了评论详情模式，会降低速度并增加反爬概率
+2025-05-24 01:34:14,758 - 22996-MainThread - D:\GithubWorkspace\dianping_spider\utils\saver\mongo_saver.py[line:34] - WARNING: 
+2025-05-24 01:34:14,758 - 22996-MainThread - D:\GithubWorkspace\dianping_spider\utils\saver\mongo_saver.py[line:39] - WARNING: 系统中可能没有安装或启动MongoDB数据库，请先根据系统环境安装或启动MongoDB，再运行程序
+2025-05-24 01:34:59,045 - 20176-MainThread - D:\GithubWorkspace\dianping_spider\utils\spider_config.py[line:88] - WARNING: 开启了评论详情模式，会降低速度并增加反爬概率
+2025-05-24 01:34:59,254 - 20176-MainThread - D:\GithubWorkspace\dianping_spider\utils\saver\mongo_saver.py[line:34] - WARNING:  连接MongoDB数据库中...
+2025-05-24 01:34:59,255 - 20176-MainThread - D:\GithubWorkspace\dianping_spider\utils\saver\mongo_saver.py[line:39] - WARNING: 系统中可能没有安装或启动MongoDB数据库，请先根据系统环境安装或启动MongoDB，再运行程序
+2025-05-24 01:35:42,869 - 19124-MainThread - D:\GithubWorkspace\dianping_spider\utils\spider_config.py[line:88] - WARNING: 开启了评论详情模式，会降低速度并增加反爬概率
+2025-05-24 01:35:43,082 - 19124-MainThread - D:\GithubWorkspace\dianping_spider\utils\saver\mongo_saver.py[line:34] - WARNING: mongodb://servername:27017 连接MongoDB数据库中...
+2025-05-24 01:35:43,864 - 19124-MainThread - C:\Users\Chrom\.conda\envs\DPspider\Lib\site-packages\fontTools\ttLib\tables\_p_o_s_t.py[line:308] - WARNING: 2 extra bytes in post.stringData array
+2025-05-24 01:35:45,251 - 19124-MainThread - C:\Users\Chrom\.conda\envs\DPspider\Lib\site-packages\fontTools\ttLib\tables\_p_o_s_t.py[line:308] - WARNING: 2 extra bytes in post.stringData array
+2025-05-24 01:35:46,697 - 19124-MainThread - C:\Users\Chrom\.conda\envs\DPspider\Lib\site-packages\fontTools\ttLib\tables\_p_o_s_t.py[line:308] - WARNING: 2 extra bytes in post.stringData array
+2025-05-24 01:37:40,762 - 14976-MainThread - D:\GithubWorkspace\dianping_spider\utils\spider_config.py[line:88] - WARNING: 开启了评论详情模式，会降低速度并增加反爬概率
+2025-05-24 01:39:17,077 - 19372-MainThread - D:\GithubWorkspace\dianping_spider\utils\spider_config.py[line:88] - WARNING: 开启了评论详情模式，会降低速度并增加反爬概率
+2025-05-24 01:39:26,040 - 19372-MainThread - C:\Users\Chrom\.conda\envs\DPspider\Lib\site-packages\fontTools\ttLib\tables\_p_o_s_t.py[line:308] - WARNING: 2 extra bytes in post.stringData array
+2025-05-24 01:39:32,083 - 19372-MainThread - D:\GithubWorkspace\dianping_spider\utils\get_font_map.py[line:360] - WARNING: cookie失效或者被限制访问，更新cookie或登录大众点评滑动验证
+2025-05-24 01:44:01,071 - 18944-MainThread - D:\GithubWorkspace\dianping_spider\utils\spider_config.py[line:88] - WARNING: 开启了评论详情模式，会降低速度并增加反爬概率
+2025-05-24 01:44:14,157 - 18944-MainThread - D:\GithubWorkspace\dianping_spider\utils\get_font_map.py[line:360] - WARNING: cookie失效或者被限制访问，更新cookie或登录大众点评滑动验证
+2025-05-24 01:51:23,044 - 14288-MainThread - D:\GithubWorkspace\dianping_spider\utils\spider_config.py[line:88] - WARNING: 开启了评论详情模式，会降低速度并增加反爬概率
+2025-05-24 17:41:18,124 - 15368-MainThread - D:\GithubWorkspace\dianping_spider\utils\spider_config.py[line:88] - WARNING: 开启了评论详情模式，会降低速度并增加反爬概率
+2025-05-24 17:41:32,709 - 15368-MainThread - D:\GithubWorkspace\dianping_spider\utils\get_font_map.py[line:360] - WARNING: cookie失效或者被限制访问，更新cookie或登录大众点评滑动验证
