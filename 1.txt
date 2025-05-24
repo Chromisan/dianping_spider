@@ -45,3 +45,8 @@ location_id就是地点，南京是5，channel id就是频道，美食是10
 那我觉得你可以先弄那个，就，你们主体不是还没搞出来吗，能用先用呗
 哦哦这样那你试试，我觉得你这个不关键，你要不先问问他们进度如何，到时候他们那边炸了你这个搞起来也没效果
 
+Invoke-WebRequest -Uri "https://www.dianping.com/nanjing/ch0" `
+-Headers @{
+"Cookie" = "_lxsdk_cuid=196fd9768fbc8-017810c36f9289-4c657b58-146d15-196fd9768fbc8; _lxsdk=196fd9768fbc8-017810c36f9289-4c657b58-146d15-196fd9768fbc8; _hc.v=4b6eb86e-b291-9978-3e32-ff3e0b8ac9fe.1748011281; WEBDFPID=9723330uu08959y8y362uw2yu64wz48v803uw021z52979582170vv6w-1748097689172-1748011286254CWUOQCSfd79fef3d01d5e9aadc18ccd4d0c95072142; s_ViewType=10; ctu=90fcf674c944269881813bd29fde5d5bc2d08c19a46544029dbc847dea54d181; fspop=test; cy=5; cye=nanjing; qruuid=4230b1aa-79f7-4481-b040-7f9f8104da41; dper=0202f5200f99e49afeaa9babc9db9e2c1bfbdb16699489008856035f6769b392dbcebca20efd6541a48bb09502923b360308a928a57780423cc900000000722900000fed9742edc94cd3f6f876752d05d5d48ce4938c0012520be4be8f17660020c97ec9e75bbb211dfbbf7e61ef2962eb08; cityid=5; default_ab=shopList%3AA%3A5; m_flash2=1; logan_session_token=zeq7mfnlyq1kbdtncxfh; ll=7fd06e815b796be3df069dec7836c3df; Hm_lvt_602b80cf8079ae6591966cc70a3940e7=1748013855,1748017182,1748080215; HMACCOUNT=50B2230A8CF30BC7; Hm_lpvt_602b80cf8079ae6591966cc70a3940e7=1748092068; _lxsdk_s=19702681fd3-11f-718-4b6%7C%7C20"
+    "User-Agent" = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+} -OutFile "output.html"

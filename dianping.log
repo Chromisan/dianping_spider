@@ -32,3 +32,13 @@
 2025-05-24 01:51:23,044 - 14288-MainThread - D:\GithubWorkspace\dianping_spider\utils\spider_config.py[line:88] - WARNING: 开启了评论详情模式，会降低速度并增加反爬概率
 2025-05-24 17:41:18,124 - 15368-MainThread - D:\GithubWorkspace\dianping_spider\utils\spider_config.py[line:88] - WARNING: 开启了评论详情模式，会降低速度并增加反爬概率
 2025-05-24 17:41:32,709 - 15368-MainThread - D:\GithubWorkspace\dianping_spider\utils\get_font_map.py[line:360] - WARNING: cookie失效或者被限制访问，更新cookie或登录大众点评滑动验证
+2025-05-24 19:51:57,306 - 20816-MainThread - D:\GithubWorkspace\dianping_spider\utils\spider_config.py[line:88] - WARNING: 开启了评论详情模式，会降低速度并增加反爬概率
+2025-05-24 19:52:12,415 - 20816-MainThread - D:\GithubWorkspace\dianping_spider\utils\get_font_map.py[line:360] - WARNING: cookie失效或者被限制访问，更新cookie或登录大众点评滑动验证
+2025-05-24 20:32:11,587 - 23560-MainThread - D:\GithubWorkspace\dianping_spider\utils\spider_config.py[line:88] - WARNING: 开启了评论详情模式，会降低速度并增加反爬概率
+2025-05-24 20:32:25,698 - 23560-MainThread - D:\GithubWorkspace\dianping_spider\utils\get_font_map.py[line:360] - WARNING: cookie失效或者被限制访问，更新cookie或登录大众点评滑动验证
+2025-05-24 20:36:03,333 - 16840-MainThread - D:\GithubWorkspace\dianping_spider\utils\spider_config.py[line:88] - WARNING: 开启了评论详情模式，会降低速度并增加反爬概率
+2025-05-24 20:36:17,889 - 16840-MainThread - D:\GithubWorkspace\dianping_spider\utils\get_font_map.py[line:360] - WARNING: cookie失效或者被限制访问，更新cookie或登录大众点评滑动验证
+2025-05-24 20:55:23,963 - 29340-MainThread - D:\GithubWorkspace\dianping_spider\utils\spider_config.py[line:88] - WARNING: 开启了评论详情模式，会降低速度并增加反爬概率
+2025-05-24 20:55:37,920 - 29340-MainThread - D:\GithubWorkspace\dianping_spider\utils\get_font_map.py[line:360] - WARNING: cookie失效或者被限制访问，更新cookie或登录大众点评滑动验证
+2025-05-24 20:56:57,232 - 29576-MainThread - D:\GithubWorkspace\dianping_spider\utils\spider_config.py[line:88] - WARNING: 开启了评论详情模式，会降低速度并增加反爬概率
+2025-05-24 20:57:11,004 - 29576-MainThread - D:\GithubWorkspace\dianping_spider\utils\get_font_map.py[line:360] - WARNING: cookie失效或者被限制访问，更新cookie或登录大众点评滑动验证
